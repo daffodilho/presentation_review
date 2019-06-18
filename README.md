@@ -1,5 +1,7 @@
 # TRAA Midterm Presentation Review
 
+![TRAA logo](desktop/Midterm/traa_logo-MASTER.jpg)
+
 Going over some stuff that almost everyone got slightly wrong. 
 
 ## Description
